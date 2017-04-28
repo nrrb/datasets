@@ -1,0 +1,3 @@
+Sunrise and sunset times for 2017 in Chicago, IL
+Data source: http://aa.usno.navy.mil/cgi-bin/aa_rstablew.pl?ID=AA&year=2017&task=0&state=IL&place=Chicago
+Downloaded 2017-04-28
